@@ -1,0 +1,30 @@
+{
+  "name": "modulo18grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "grunt": "grunt",
+    "build": "grunt build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardsanvie/Modulo18Grunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardsanvie/Modulo18Grunt/issues"
+  },
+  "homepage": "https://github.com/richardsanvie/Modulo18Grunt#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "sass": "^1.65.1"
+  }
+}
